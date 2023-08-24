@@ -5,9 +5,10 @@
  
 
 ## Features:
-
+```bash
 * ### Home Page with Categorized Videos: 
 The home page of your web app features a grid layout with categorized videos. Users can easily navigate through different video categories, such as Entertainment, Education, Gaming, etc.
+```
 
 * ### Search Functionality: 
 Your app includes a powerful search feature that allows users to search for any video they're interested in.
@@ -23,6 +24,8 @@ The user interface is intuitive, responsive, and designed to provide an enjoyabl
 
 * ### Rapid API Integration: 
 The integration of Rapid API enhances your app's functionality by providing a seamless connection to the YouTube data and services.
+
+
 
 
 ## Built with
@@ -42,6 +45,8 @@ Frontend project made using:
 
 
 
+
+
 ## Installation
 Clone repository
 ```bash
@@ -55,6 +60,9 @@ Start the project with npm
 ```bash
   npm start
 ```
+
+
+
     
 ## Deployment
 
@@ -64,6 +72,8 @@ To deploy this project run
   npm run build
 ```
 Deployed using [Netlify](https://www.netlify.com/)
+
+
 
 
 ## Demo
