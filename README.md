@@ -5,22 +5,26 @@
  
 
 ## Features:
-```bash
+
 * ### Home Page with Categorized Videos: 
 The home page of your web app features a grid layout with categorized videos. Users can easily navigate through different video categories, such as Entertainment, Education, Gaming, etc.
-```
+
 
 * ### Search Functionality: 
 Your app includes a powerful search feature that allows users to search for any video they're interested in.
 
+
 * ### Related Videos from the Same Channel: 
 As a unique feature, while a video is playing, the app suggests and displays a list of related videos from the same YouTube channel.
+
 
 * ### Channel Profile and Subscribers: 
 When users tap on a video, they can also access the channel's profile page. This page displays information about the channel, including the number of subscribers it has.
 
+
 * ### Fresh and Modern Design: 
 The user interface is intuitive, responsive, and designed to provide an enjoyable viewing experience across all displays.
+
 
 * ### Rapid API Integration: 
 The integration of Rapid API enhances your app's functionality by providing a seamless connection to the YouTube data and services.
