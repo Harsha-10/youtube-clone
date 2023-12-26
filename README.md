@@ -82,5 +82,5 @@ Deployed using [Netlify](https://www.netlify.com/)
 
 ## Demo
 
-If you want to see working demo of the application [click here](https://incomparable-monstera-85f3d5.netlify.app/)
+demo of the application [click here](https://incomparable-monstera-85f3d5.netlify.app/)
 
